@@ -1,2 +1,2 @@
 # bibi
-Kickass Hospitality Dashboard
+Hospitality Dashboard
