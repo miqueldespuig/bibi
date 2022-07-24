@@ -133,3 +133,4 @@ dmypy.json
 
 # Data Folders
 .data/
+data/
